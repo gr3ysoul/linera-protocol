@@ -1,4 +1,4 @@
-<!-- cargo-rdme start -->
+<!--- cargo-rdme start -->
 
 A library for Linera server metrics.
 
